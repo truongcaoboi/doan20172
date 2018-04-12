@@ -1,0 +1,150 @@
+header .container {
+	background-color: #fff
+}
+
+
+@media screen and (max-width: 350px) {
+    .ad_360{
+    	visibility: hidden;
+		clear: both;
+		float: left;
+		margin: 10px auto 5px 20px;
+		width: 28%;
+		display: none
+    }
+}
+@media screen and (min-width: 992px) {
+	#SC_TBlock_125664 {
+		visibility: hidden;
+		clear: both;
+		float: left;
+		margin: 10px auto 5px 20px;
+		width: 28%;
+		display: none
+	}
+	.mobile_ads_only {
+		visibility: hidden;
+		clear: both;
+		float: left;
+		margin: 10px auto 5px 20px;
+		width: 28%;
+		display: none
+	}
+	.row {
+		margin: 0
+	}
+	#M165528ScriptRootC101389 {
+		visibility: hidden;
+		clear: both;
+		float: left;
+		margin: 10px auto 5px 20px;
+		width: 28%;
+		display: none
+	}
+	#M165528ScriptRootC80901 {
+		visibility: hidden;
+		clear: both;
+		float: left;
+		margin: 10px auto 5px 20px;
+		width: 28%;
+		display: none
+	}
+	#M165528ScriptRootC90191 {
+		visibility: hidden;
+		clear: both;
+		float: left;
+		margin: 10px auto 5px 20px;
+		width: 28%;
+		display: none
+	}
+	#M165528ScriptRootC70537 {
+		visibility: hidden;
+		clear: both;
+		float: left;
+		margin: 10px auto 5px 20px;
+		width: 28%;
+		display: none
+	}
+	#M165528ScriptRootC84986 {
+		visibility: hidden;
+		clear: both;
+		float: left;
+		margin: 10px auto 5px 20px;
+		width: 28%;
+		display: none
+	}
+	#venus-47581 {
+		visibility: hidden;
+		clear: both;
+		float: left;
+		margin: 10px auto 5px 20px;
+		width: 28%;
+		display: none
+	}
+	#venus-47385 {
+		visibility: hidden;
+		clear: both;
+		float: left;
+		margin: 10px auto 5px 20px;
+		width: 28%;
+		display: none
+	}
+}
+
+@media screen and (max-width: 992px) {
+	#taboola-below-article-thumbnails {
+		visibility: hidden;
+		clear: both;
+		float: left;
+		margin: 10px auto 5px 20px;
+		width: 28%;
+		display: none
+	}
+	#rightbar {
+		visibility: hidden;
+		clear: both;
+		float: left;
+		margin: 10px auto 5px 20px;
+		width: 28%;
+		display: none
+	}
+	#topbanner {
+		visibility: hidden;
+		clear: both;
+		float: left;
+		margin: 10px auto 5px 20px;
+		width: 28%;
+		display: none
+	}
+}
+
+@media ( max-width : 991px) {
+	.footer-v1 .copyright,.footer-v1 .footer-socials {
+		text-align: left
+	}
+}
+
+strong a {
+	color: #eee
+}
+
+small,.small {
+	font-size: 85%
+}
+
+.print-btn {
+	display: none
+}
+
+.center-aligned.tutorial-menu {
+	display: none
+}
+
+.footer-v1 p,.footer-v1 .address,.footer-v1 .phone,.footer-v1 .email {
+	color: #fff
+}
+
+.footer-v1 .footer .headline h2 {
+	text-shadow: none;
+	margin-bottom: 35px !important
+}

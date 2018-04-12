@@ -1,0 +1,121 @@
+#main{
+	margin-left: 100px;
+	border-right: 1px solid;
+	height: 960px;
+	width: 1300px;
+	display: inline-flex;
+	float: none;
+}
+#khoangtrang{
+	height: 100px;
+	margin-bottom: 5px;
+	background-image: url("./quangcao.jpg");
+	background-repeat: no-repeat;
+	background-attachment: scroll;
+	background-size: 1300px 100px;
+	width: 1300px
+//	margin-left:100px;
+	float: none;
+}
+#thanhcongcu{
+	background-color: gray;
+	height: 40px;
+	margin-left: 100px;
+	width: 1300px;
+	float: none;
+}
+div.thanhphanmenu{
+	width: 250px;
+	height: 300px;
+	overflow: auto;
+	background-color: #DDDDDD;
+	margin-top: 20px;
+	margin-left: 5px;
+}
+div.vidu{
+	height: 15px;
+	width: 35px;
+	display: inline-block;
+}
+#sanpham{
+	width: 1000px;
+	height: 940px;
+	background-color: #FFFAF0;
+	display: block;
+	margin-left: 20px;
+	margin-top: 20px;
+	margin-right: 10px;
+}
+#feater{
+	width: 100%;
+	height: 75px;
+	background-color: #528B8B;
+	display: block;
+}
+body{
+	white-space: normal;
+}
+hr{
+	height: 5px;
+	background-color:  #528B8B; 
+}
+div.product{
+	display: inline-block;
+	width: 240px;
+	height: 250px;
+	margin-left: 5px;
+	margin-bottom: 5px;
+	text-align: center;
+}
+div.hinhanh{
+	width: 230px;
+	height: 200px;
+}
+#p1{
+	background-image: url("dienthoai1.jpg");
+	background-size: 230px 200px;
+	backface-visibility: visible;
+	background-attachment: scroll;
+	background-repeat: no-repeat;
+	background-position: left;
+}
+#p2{
+	background-image: url("dienthoai2.png");
+	background-size: 230px 200px;
+	backface-visibility: visible;
+	background-attachment: scroll;
+	background-repeat: no-repeat;
+	background-position: left;
+}
+#p3{
+	background-image: url("dienthoai3.png");
+	background-size: 230px 200px;
+	backface-visibility: visible;
+	background-attachment: scroll;
+	background-repeat: no-repeat;
+	background-position: left;
+}
+#p4{
+	background-image: url("dienthoai4.jpg");
+	background-size: 230px 200px;
+	backface-visibility: visible;
+	background-attachment: scroll;
+	background-repeat: no-repeat;
+	background-position: left;
+}
+#p5{
+	background-image: url("dienthoai5.jpg");
+	background-size: 230px 200px;
+	backface-visibility: visible;
+	background-attachment: scroll;
+	background-repeat: no-repeat;
+	background-position: left;
+}
+#p6{
+	background-image: url("dienthoai6.jpg");
+	background-size: 230px 200px;
+	backface-visibility: visible;
+	background-attachment: scroll;
+	background-repeat: no-repeat;
+	background-position: left;
+}
